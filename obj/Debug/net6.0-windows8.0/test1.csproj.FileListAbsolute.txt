@@ -1,0 +1,11 @@
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.csproj.AssemblyReference.cache
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.booking_form.resources
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.login_form.resources
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.main_form.resources
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.Properties.Resources.resources
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.registration_form.resources
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.csproj.GenerateResource.cache
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.AssemblyInfoInputs.cache
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.AssemblyInfo.cs
+C:\Users\matve\source\repos\test1\test1\obj\Debug\net6.0-windows8.0\test1.csproj.CoreCompileInputs.cache
